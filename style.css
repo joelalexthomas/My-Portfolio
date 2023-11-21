@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white; /* Light background */
+    color: black; /* Black text */
+}
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+section {
+    margin: 20px;
+    padding: 20px;
+    background: white; /* Light background for content sections */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.profile img {
+    max-width: 200px;
+    border-radius: 10%;
+    
+}
+.social-media ul {
+    list-style: none;
+    padding:0;
+    display: flex;
+    justify-content: left;
+    
+}
+.social-media ul li {
+    margin: 10px;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
